@@ -5,8 +5,7 @@ On rappelle que
   
  1. les commandes doivent être tapées à la racine du projet.
  2. lors de la création d'une table, l'id (clé primaire est automatiquement créée)
-
-support officiel, à partir de la partie Creating an Entity Class : [ici](https://symfony.com/doc/current/doctrine.html#creating-an-entity-class)
+ 3. support officiel, à partir de la partie Creating an Entity Class : [ici](https://symfony.com/doc/current/doctrine.html#creating-an-entity-class)
 
 Voici le modèle à créer :
 

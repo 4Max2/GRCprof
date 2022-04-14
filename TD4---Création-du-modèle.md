@@ -44,6 +44,7 @@ Vous devez créer les entity dans l'ordre suivant. Lors de l'authentification la
 4. Créer la table EtatNote
 5. créer la table Note
 
+![](http://51.222.75.212/ressources/phpR209.png)
 
 Si vous avez terminé, vous pouvez commencer à créer des formulaires et modifier des données.
 

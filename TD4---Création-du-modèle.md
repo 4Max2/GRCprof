@@ -40,7 +40,7 @@ Vous devez créer les entity dans l'ordre suivant. Lors de l'authentification la
 
 Si vous avez terminé, vous pouvez commencer à créer des formulaires et modifier des données.
 
-# création d'un controller
+# Création d'un controller
 
 Pour chaque entity (table) créée, il faut créer un controller.
 La syntaxe d'un controller est Première lettre en majuscule suivi du mot Controller : exemple AdminController ou SecurityController

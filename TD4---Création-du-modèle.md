@@ -61,9 +61,11 @@ Dans la fonction
 `> }`
 
 # Point de vigilance
-Dans les tables suivantes vous devrez rentrer le relation.
+Dans les tables suivantes vous devrez créer des relations.
 * Table Note : deux relations une vers la table Projet et une vers la table EtatNote
 * table Projet : deux relations une vers etatProjet et une vers user
+
+Lorsque vous avez entré le nom de votre propriété (clé étrangère), vous allez être invité à entrer le Type Field. Par défaut le choix est à string, il faut écrire relation. Puis écrire le nom de la class (Entity) à laquelle le champ sera relié.
 
 Pour ces relations le format est **ManytoOne**
 

@@ -1,6 +1,7 @@
 L'objectif de ce TD est de créer le modèle, c'est à dire la base de données de notre projet.
 Dans le langage symfony, une entity est une table.
 Il est recommandé de lire en entier cette page avant de démarrer.
+On rappelle que les commandes doivent être tapées à la racine du projet.
 Voici le modèle à créer :
 
 ![r209](http://51.222.75.212/ressources/modeleR209.png)

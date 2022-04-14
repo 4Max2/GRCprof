@@ -15,6 +15,17 @@ Pour appliquer ces modifications tapez les commandes suivantes
 * symfony console make:migration
 * symfony console doctrine:migrations:migrate
 
+# création d'un controller
+
+Pour chaque entity (table) créée, il faut créer un controller.
+La syntaxe d'un controller est Première lettre en majuscule suivi du mot Controller : exemple AdminController ou SecurityController
+
+Afin de créer un controller, il faut se placer à la racine du projet et taper la commande : **symfony console make:controller**
+
+Cette action va créer 
+1. un fichier dans /src/controller (ce qui est le back)
+1. un répertoire (qui porte le nom du controller) et un fichier index.html.twig à l’intérieur du répertoire /templates (ce qui est le front)
+
 # Récupération de données de formulaires
 
 ## Dans le formulaire

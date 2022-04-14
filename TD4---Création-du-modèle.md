@@ -1,4 +1,6 @@
-Une entity est une table.
+L'objectif de ce TD est de créer le modèle, c'est àd ire la abse de données de notre projet.
+Dans le langage symfony, une entity est une table.
+Vous retrouverez le modèle dans le power point page
 # Création d'une entité et identification des champs et des types
 Commande pour créer une entity : symfony console make:entity
 

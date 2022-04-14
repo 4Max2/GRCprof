@@ -44,6 +44,9 @@ Vous devez créer les entity dans l'ordre suivant. Lors de l'authentification la
 4. Créer la table EtatNote
 5. créer la table Note
 
+# Résultat souhaité avec le concepteur PhpMyAdmin
+ce résultat est juste un visuel. En aucun cas, il faut utiliser PhpMyAdmin pour la cocneption. uniquement pour la visualisation. La conception se fait en ligne de commande via la commande **symfony console make:entity**.
+
 ![](http://51.222.75.212/ressources/phpR209.png)
 
 Si vous avez terminé, vous pouvez commencer à créer des formulaires et modifier des données.

@@ -66,3 +66,11 @@ Dans les tables suivantes vous devrez rentrer le relation.
 * table Projet : deux relations une vers etatProjet et une vers user
 
 Pour ces relations le format est **ManytoOne**
+
+# Ordre de création des tables
+Vous devez créer les entity dans l'ordre suivant. Lors de l'authentification la table user a été créée.
+1. Terminer la table User
+2. Créer la table EtatProjet
+3. créer la table Projet
+4. Créer la table EtatNote
+5. créer la table Note

@@ -59,3 +59,10 @@ Dans la fonction
 
 `> 		$pwd = $request->request->get('pwd');`
 `> }`
+
+# Point de vigilance
+Dans les tables suivantes vous devrez rentrer le relation.
+* Table Note : deux relations une vers la table Projet et une vers la table EtatNote
+* table Projet : deux relations une vers etatProjet et une vers user
+
+Pour ces relations le format est **ManytoOne**
